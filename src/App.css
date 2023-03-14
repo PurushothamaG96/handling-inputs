@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text-input{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h4{
+  text-align: center;
+}
